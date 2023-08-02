@@ -1,0 +1,19 @@
+current directory: /Users/sakashitakazuya/Desktop/work/develop/google-maps-api-sample/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+/Users/sakashitakazuya/.rbenv/versions/3.1.4/bin/ruby -I /Users/sakashitakazuya/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /Users/sakashitakazuya/Desktop/work/develop/google-maps-api-sample/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230802-14210-is4ol0 sitelibdir\=./.gem.20230802-14210-is4ol0 clean
+
+current directory: /Users/sakashitakazuya/Desktop/work/develop/google-maps-api-sample/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230802-14210-is4ol0 sitelibdir\=./.gem.20230802-14210-is4ol0
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/sakashitakazuya/Desktop/work/develop/google-maps-api-sample/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230802-14210-is4ol0 sitelibdir\=./.gem.20230802-14210-is4ol0 install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20230802-14210-is4ol0/io
